@@ -63,6 +63,7 @@ main{
     border-radius: 28px;
     letter-spacing: 2px;
     cursor: pointer;
+    color: white;
 }
 
 .rating{
