@@ -23,7 +23,7 @@ main{
     background: linear-gradient(#212832, #1D242E, #1A1E29);
     padding: 30px;
     border-radius: 20px;
-    min-height: 55vh;
+    min-height: 50vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -63,6 +63,7 @@ main{
     border-radius: 28px;
     letter-spacing: 2px;
     cursor: pointer;
+    color: black;
 }
 
 .rating{
